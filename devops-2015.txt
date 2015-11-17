@@ -142,8 +142,8 @@ Trender
 
 * De som var på sin första DevOps-days verkade mer imponerade
 
-Questions?
-==========
+Frågor?
+=======
 
 .. image:: img/question.png
      :alt: [question mark]
