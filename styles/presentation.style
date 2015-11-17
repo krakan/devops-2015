@@ -1,0 +1,53 @@
+pageSetup:
+  firstTemplate: coverPage
+  width: 18cm
+  height: 13.5cm
+  margin-top: 0cm
+  margin-bottom: 3mm
+  margin-left: 3mm
+  margin-right: 10mm
+  spacing-header: 3mm
+  spacing-footer: 3mm
+
+pageTemplates:
+  coverPage:
+      frames: [[0cm,0cm,100%,60%]]
+      showHeader: false
+      showFooter: false
+  oneColumn:
+      frames: [[7mm,0cm,100%,100%]]
+      showHeader: true
+      showFooter: true
+      background: img/DevOpsGray.png
+  lastPage:
+      frames: [[0cm,0cm,100%,60%]]
+      showHeader: false
+      showFooter: false
+      background: img/aspens-dense-horizontal-33.4cut.jpg
+
+styles:
+  base:
+    textColor: black
+    fontSize: 13
+    leading: 16
+  bodytext:
+    alignment: TA_LEFT
+  heading:
+    textColor: black
+  footer-table:
+    colWidths: [10%, 80%,10%]
+  footer-body:
+    textColor: grey
+    alignment : TA_CENTER
+  bullet-list:
+    parent: bodytext
+    bulletFontName: stdBold
+    bulletFontSize: 14
+    spaceBefore: 0
+    spaceAfter: 10
+  thanks:
+    textColor: lightgrey
+    fontSize: 23
+    fontName: stdBold
+    alignment : TA_CENTER
+

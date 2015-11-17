@@ -1,0 +1,150 @@
+.. -*- mode: rst -*-
+.. This document is formatted for rst2s5
+.. http://docutils.sourceforge.net/
+
+=======================
+DevOps konferenser 2015
+=======================
+
+|
+
+|
+
+|
+
+.. image:: img/init180x170.gif
+   :alt: Init AB
+   :target: http://www.init.se/
+
+|
+
+.. class:: center
+
+    Jonas Linde <jonas@init.se>
+
+.. raw:: pdf
+
+      PageBreak oneColumn
+
+.. footer::
+  jonas.linde@init.se
+
+DevOps-konferenser hösten 2015
+==============================
+
+* Operability.IO, London, 24-25 september
+* DevOps Days Berlin, 26-27 oktober 
+
+Operability.IO
+==============
+
+* London, 24-25 september
+* En ny konferens som fokuserar på (Dev)Ops
+* Deltagare från Init: Moe, Johan, Jonas
+* Andra deltagare från Sverige: Accenture
+
+.. class:: illustration
+.. image:: img/touch-icon-ipad-retina.png
+
+First Day
+=========
+
+* What even is operable? - Andrew Clay Shafer
+* Inoperability.IO - Colin Humphreys
+* Processes: How small teams accomplish big things - Anthony Eden
+* Distributed: Of systems and teams - Bridget Kromhout
+* In God we trust, everyone else can bring data - Steven Acreman
+* Pragmatic alert correlation in modern production environments - Elik Eizenberg
+* Infrastructure as code: Automating for agility - Kief Morris
+* Time and relative dimensions in systems - Anne Currie
+
+Second Day
+==========
+
+* Building world class ops teams - Charity Majors
+* Human ops - Scaling teams and handling incidents - David Mytton
+* Emphatically empathetic - Emma Jane Hogbin Westby
+* Effective incident communication - Scott Klein
+* Leading a team with values - Rich Archbold
+* Un-broken logging - The foundation of operability - Matthew Skelton
+* Taking the operating system out of operations - Gareth Rushgrove
+* Security for non-unicorns - Ben Hughes
+
+DevOpsDays Berlin
+=================
+
+* Berlin, 26-27 oktober 
+* En årlig konferensen i DevOpsDays-formatet
+* Deltagare från Init: Moe, Johan, Jonas, Wille, Lars
+* Andra deltagare från Sverige:
+
+  - Leo Vegas
+  - Försäkringskassan
+  - Spotify
+  - ???
+    
+.. class:: illustration
+.. image:: img/dod-berlin-2015.png
+
+Talks
+=====
+
+* Keynote (John Willis)
+* Power in the workplace and women in tech (Inga Höltmann) (Slides)
+* Containers, DevOps, Apache Mesos and Cloud (Marcelo S. Ancelmo, Slides)
+* War Games (David Mytton, Slides)
+
+* Debugging your communication for more success and efficiency in DevOps (Sabine Bernecker-Bendixen, Slides)
+* DevOoops (Increase awareness around DevOps infra security) (Gianluca Varisco, Slides)
+* From Hero to Zero - DevOps at Kuehne + Nagel KN Freightnet (Markus Krogemann & Sascha Krüger, Slides)
+* The beauty and the bias: A tale of self-delusion and fallacy (Maximilien Riehl, Slides)
+
+Ignites
+=======
+
+* WARNING is a waste of my time (Schlomo Schapiro, Slides)
+* How to store and retrieve container images securely (Alban Crequy, Slides)
+* Open Source Monitoring with Icinga 2 (Bernd Erk, Slides)
+* Let's have a DevOps team! (Alexander Schwartz, Slides)
+* Scientific Methods meets DevOps (Vittorio BOCCONE, Slides)
+* Nix - The Purely Functional Package Manager (Rok Garbas, Slides)
+* Stop doing IT projects (Stein Morisbak, Slides)
+* How many source code repositories (Oliver Seemann, Slides)
+* How low can you go? Scalable infrastructure on a shoestring (Gerald Schmidt, Slides)
+
+Hands on
+========
+
+- Automating networks. Breaking one thing at a time (Nicolas Antonio) 
+- Ansible (Sveinung Dalatun, Kjetil Valle) 
+- Consul / Docker (Jan de Cooman) 
+- Tools (Ivan Kusalic) 
+- Test-Driven Infrastructure (Martin Etmajer) 
+- Ansible (Victor Volle, Slides) 
+
+Open Spaces
+===========
+
+* Diversity in the workplace
+* How to handle secrets in automation
+* How to hire a devop
+* 
+* 
+* 
+
+Trender
+=======
+
+* Teknisk sett inte mycket nytt
+* Mer fokus på idéer och mjuka värden
+
+  - mer idéer i London än i Berlin
+
+* De som var på sin första DevOps-days verkade mer imponerade
+
+Questions?
+==========
+
+.. image:: img/question.png
+     :alt: [question mark]
+
