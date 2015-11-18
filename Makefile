@@ -17,7 +17,7 @@ handout: $(print)
 	perl -pi -e 's%<div class="layout">%<div class="layout">\n<img id="slant" src="img/slant.png">%' $@
 
 index.html: $(html)
-	cp $< $@
+	@cp -p $< $@
 
 %-print.pdf: %.pdf
 	./twoup.sh $?
@@ -25,3 +25,4 @@ index.html: $(html)
 publish: $(html) $(css) img ui index.html
 	@sshadd
 	rsync -ztvua --delete --progress $? lekstugan:/var/www/jonas.init.se/htdocs/devops-2015/
+	@rm index.html
