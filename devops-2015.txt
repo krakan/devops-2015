@@ -81,7 +81,7 @@ DevOpsDays Berlin
   - Leo Vegas
   - Försäkringskassan
   - Spotify
-  - ???
+  - Pingdom
     
 .. class:: illustration
 .. image:: img/dod-berlin-2015.png
@@ -128,7 +128,7 @@ Open Spaces
 * Diversity in the workplace
 * How to handle secrets in automation
 * How to hire a devop
-* 
+* My favourite metrics
 * 
 * 
 
