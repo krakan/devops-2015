@@ -1,10 +1,11 @@
+
 .. -*- mode: rst -*-
 .. This document is formatted for rst2s5
 .. http://docutils.sourceforge.net/
 
-=======================
-DevOps konferenser 2015
-=======================
+==============================
+DevOps konferenser hösten 2015
+==============================
 
 |
 
@@ -29,11 +30,13 @@ DevOps konferenser 2015
 .. footer::
   jonas.linde@init.se
 
-DevOps-konferenser hösten 2015
-==============================
+DevOps-konferenser 2015
+=======================
 
+* CfgMgmtCamp, Gent, 2-3 februari
 * Operability.IO, London, 24-25 september
 * DevOps Days Berlin, 26-27 oktober 
+* Velocity Amsterdam, 26-27 oktober 
 
 Operability.IO
 ==============
@@ -136,6 +139,9 @@ Trender
 =======
 
 * Teknisk sett inte mycket nytt
+
+  - möjlig konkurrens med Velocity
+  
 * Mer fokus på idéer och mjuka värden
 
   - mer idéer i London än i Berlin
