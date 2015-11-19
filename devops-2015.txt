@@ -4,7 +4,7 @@
 .. http://docutils.sourceforge.net/
 
 ==============================
-DevOps konferenser hösten 2015
+DevOps-konferenser hösten 2015
 ==============================
 
 |
